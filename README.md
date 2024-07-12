@@ -41,3 +41,5 @@ mutation{
   }
 }
 
+
+** Purely using this repo for my own educational purposes
